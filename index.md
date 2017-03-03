@@ -18,6 +18,8 @@ class Main
 end
 ```
 
+Check out the [Encore book](https://www.gitbook.com/book/stw/the-encore-programming-language/details) (a work in progress!)
+
 ### Contributors
 
 People who have contributed code to encore are, alphabetically:
